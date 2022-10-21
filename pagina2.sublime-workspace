@@ -1,0 +1,202 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-size"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/professor/Área de Trabalho/CrisMaria alura/projeto/README.md",
+		"/home/professor/Área de Trabalho/CrisMaria alura/banner.jpg",
+		"/home/professor/Área de Trabalho/CrisMaria alura/projeto/dist/style.css",
+		"/home/professor/Área de Trabalho/CrisMaria alura/projeto/dist/beneficios.jpg",
+		"/home/professor/Área de Trabalho/Leti e Lavi/LICENSE.txt",
+		"/home/professor/Área de Trabalho/Leti e Lavi/reset.css",
+		"/home/professor/Área de Trabalho/Leti e Lavi/style.css",
+		"/home/professor/Área de Trabalho/Leti e Lavi/README.md",
+		"/home/professor/Área de Trabalho/Leti e Lavi/banner.sublime-project",
+		"/home/professor/Área de Trabalho/Leti e Lavi/produtos.css",
+		"/home/professor/Área de Trabalho/Leti e Lavi/produtos.html",
+		"/home/professor/Área de Trabalho/Leti e Lavi/index.html",
+		"/home/professor/Área de Trabalho/Leti e Lavi/banner.sublime-workspace",
+		"/home/professor/Área de Trabalho/Leti e Lavi/logo-branco.png",
+		"/home/professor/Área de Trabalho/Leti e Lavi/barba.jpg",
+		"/home/professor/Área de Trabalho/Leti e Lavi/cabelo.jpg",
+		"/home/professor/Área de Trabalho/Leti e Lavi/logo.png",
+		"/home/professor/Área de Trabalho/Leti e Lavi/cabelo+barba.jpg",
+		"/home/professor/Área de Trabalho/Leti e Lavi/bg.jpg",
+		"/home/professor/Área de Trabalho/Leti e Lavi/banner.jpg",
+		"/home/professor/Área de Trabalho/Leti e Lavi/beneficios.jpg",
+		"/home/professor/Área de Trabalho/Leti Lavi/logo-branco.png",
+		"/home/professor/Área de Trabalho/Leti Lavi/pagina2.html",
+		"/home/professor/Área de Trabalho/Leti Lavi/pagina2.css",
+		"/home/professor/Área de Trabalho/Leti Lavi/aaaaaaa/pagina2.css",
+		"/home/professor/Área de Trabalho/Leti Lavi/Aula-11.10-ft-main/style.css",
+		"/home/professor/Área de Trabalho/Leti Lavi/aulaa06.09-main/pagina2.css",
+		"/home/professor/Área de Trabalho/Leti Lavi/aulaa06.09-main/pagina2.html",
+		"/home/professor/Área de Trabalho/Leti e Lavi - 1 ano A/lavi leti 13 14/codepen-aula-10-main/style.css",
+		"/home/professor/Área de Trabalho/Leti e Lavi - 1 ano A/lavi leti 13 14/codepen-aula-10-main/página 2. HTML",
+		"/home/professor/Área de Trabalho/Leti e Lavi - 1 ano A/Letí e Lavi - 1 ano A /style.css",
+		"/home/professor/Área de Trabalho/lavi leti 13 14/codepen-aula-10-main/style.css"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "pagina2.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 152.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
